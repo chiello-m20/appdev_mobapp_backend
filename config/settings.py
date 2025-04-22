@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-5z68n^f_lz1e)b8br-#86d%n5)cymxeb4e=49lez!obc2&i+3^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://appdev-mobapp-backend.onrender.com"]
+ALLOWED_HOSTS = ["appdev-mobapp-backend.onrender.com"]
 
 
 # Application definition
